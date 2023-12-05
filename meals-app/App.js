@@ -16,7 +16,7 @@ export default function App() {
           screenOptions={{
             headerStyle: { backgroundColor: "#000000" },
             headerTintColor: "white",
-            contentStyle: { backgroundColor: "#e6e5e5" },
+            contentStyle: { backgroundColor: "#c9c8c8d2" },
           }}
         >
           <Stack.Screen
